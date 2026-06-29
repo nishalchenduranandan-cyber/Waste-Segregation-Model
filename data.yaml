@@ -1,0 +1,13 @@
+
+path: /content/dataset
+train: train/images
+val: val/images
+nc: 7
+names:
+  0: Paper
+  1: Plastic
+  2: Glass
+  3: Metal
+  4: Organic
+  5: Electronics
+  6: Miscellaneous
